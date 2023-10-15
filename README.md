@@ -11,4 +11,4 @@ Pastikan laptop / PC anda terinstall web browser ```firefox```, karena ini masih
 4. Setting ```username``` & ```password``` anda di file ```env.py```
 5. Run program : ```python main.py```
 
-<img src="bg.png">
+<img src="bg.png" style="width:100%">

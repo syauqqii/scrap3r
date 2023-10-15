@@ -113,7 +113,7 @@ def main():
 	session.get("https://internship.apps.binus.ac.id/Login/Auth/Logout")
 	print(" [+] berhasil keluar dari akun anda!")
 
-	print(f" [#] file berhasil disimpan dengan nama: {NAMA_FILE}.xlsx")
+	print(f"\n [#] file berhasil disimpan dengan nama: {NAMA_FILE}.xlsx")
 
 if __name__ == '__main__':
 	try:

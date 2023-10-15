@@ -1,6 +1,9 @@
 # Scrap3r
 Scraping job intern app ke .xlsx dengan python.
 
+# Note
+Pastikan laptop / PC anda terinstall web browser ```firefox```, karena ini masih belum support dengan chrome.
+
 # Installasi
 1. Buka CMD / Git Bash / Terminal : ```git clone https://github.com/syauqqii/scrap3r```
 2. Masuk ke directory scrap3r : ```cd scrap3r```

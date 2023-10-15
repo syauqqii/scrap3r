@@ -10,3 +10,5 @@ Pastikan laptop / PC anda terinstall web browser ```firefox```, karena ini masih
 3. Lakukan installasi modul : ```pip install -r requirements.txt```
 4. Setting ```username``` & ```password``` anda di file ```env.py```
 5. Run program : ```python main.py```
+
+<img src="bg.png">

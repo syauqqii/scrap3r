@@ -16,4 +16,4 @@ Scraping job intern app ke .xlsx dengan python.
 - Jika menemukan error open ```issue``` saja atau email ke ```0xd1m5@gmail.com```
 
 # Pemanis
-<img src="https://github.com/syauqqii/scrap3r/blob/5d0925a78c96013560c9a763c51f983bc12bf313/bg.png)https://github.com/syauqqii/scrap3r/blob/5d0925a78c96013560c9a763c51f983bc12bf313/bg.png" style="width:100%">
+<img src="gambar.png" style="width:100%">

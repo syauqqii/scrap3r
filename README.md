@@ -12,6 +12,10 @@ Scraping job intern app ke .xlsx dengan python.
 4. Setting ```EMAIL_BINUS``` & ```PASSWORD``` anda di file ```.env```
 5. Run program : ```python main.py```
 
+# Testing
+- Windows 10 ```AMAN```
+- Linux: Parrot OS ```AMAN```
+
 # Lapor BUG
 - Jika menemukan error open ```issue``` saja atau email ke ```0xd1m5@gmail.com```
 

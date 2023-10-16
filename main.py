@@ -78,7 +78,7 @@ def main():
 	df = pd.DataFrame(list_perusahaan)
 
 	df = df[[
-	    'companyName', 'workStatus', 'position',
+	    'companyName', 'workStatus', 'position', 'desc', 'jobReq'
 	    'available', 'quota', 'province', 'city',
 	    'district', 'subdistrict', 'address', 'isMinimalGPA'
 	]]

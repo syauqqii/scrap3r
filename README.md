@@ -15,7 +15,7 @@ Scraping job intern app ke .xlsx dengan python.
 
 # Testing
 - Windows 10 ```AMAN```
-- Linux: Parrot OS ```AMAN```
+- Linux: Parrot OS (DEBIAN base) ```AMAN```
 
 # Lapor BUG
 - Jika menemukan error open ```issue``` saja atau email ke ```0xd1m5@gmail.com```

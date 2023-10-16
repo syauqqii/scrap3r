@@ -78,8 +78,8 @@ def main():
 	df = pd.DataFrame(list_perusahaan)
 
 	df = df[[
-	    'companyName', 'workStatus', 'position', 'desc', 'jobReq',
-	    'available', 'quota', 'province', 'city',
+	    'companyName', 'workStatus', 'position', 'available', 'quota',
+	    'desc', 'jobReq', 'province', 'city',
 	    'district', 'subdistrict', 'address', 'isMinimalGPA'
 	]]
 

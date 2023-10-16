@@ -12,4 +12,8 @@ Scraping job intern app ke .xlsx dengan python.
 4. Setting ```username``` & ```password``` anda di file ```env.py```
 5. Run program : ```python main.py```
 
+# Lapor BUG
+- Jika menemukan error open issue saja atau email ke ```0xd1m5@gmail.com```
+
+# Pemanis
 <img src="bg.png" style="width:100%">

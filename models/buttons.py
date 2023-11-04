@@ -11,11 +11,20 @@ class Buttons:
     def find_title_element_username(self):
         return self.element_function.wait_find_element(By.CSS_SELECTOR, 'div[data-bind="text: title"]', "Sign in")
 
+    def find_title_element_username_id(self):
+        return self.element_function.wait_find_element(By.CSS_SELECTOR, 'div[data-bind="text: title"]', "Masuk")
+    
     def find_title_element_password(self):
         return self.element_function.wait_find_element(By.CSS_SELECTOR, 'div[data-bind="text: str[\'CT_PWD_STR_EnterPassword_Title\']"]', "Enter password")
 
+    def find_title_element_password_id(self):
+        return self.element_function.wait_find_element(By.CSS_SELECTOR, 'div[data-bind="text: str[\'CT_PWD_STR_EnterPassword_Title\']"]', "Masukkan sandi")
+
     def find_title_element_save(self):
         return self.element_function.wait_find_element(By.CSS_SELECTOR, 'div[data-bind="text: str[\'STR_Kmsi_Title\']"]', "Stay signed in?")
+
+    def find_title_element_save_id(self):
+        return self.element_function.wait_find_element(By.CSS_SELECTOR, 'div[data-bind="text: str[\'STR_Kmsi_Title\']"]', "Tetap masuk?")
 
     def find_button_orange_dashboard(self):
         return self.element_function.wait_find_element(By.CSS_SELECTOR, 'span[class="position"] strong', "ENRICHMENT TRACK")

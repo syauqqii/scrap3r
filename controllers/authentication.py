@@ -14,7 +14,10 @@ class Authentication:
 		self.login_page.find_title_element_username()
 
 		print(" [+] proses input email")
-		username_input = self.login_page.find_username_input()
+		try:
+			username_input = self.login_page.find_username_input()
+		except:
+			username_input = self.login_page.find_username_input_id()
 
 		# input email
 		username_input.send_keys(username)
@@ -26,7 +29,10 @@ class Authentication:
 		self.login_page.find_title_element_password()
 
 		print(" [+] proses input password")
-		password_input = self.login_page.find_password_input()
+		try:
+			password_input = self.login_page.find_password_input()
+		except:
+			password_input = self.login_page.find_password_input_id()
 
 		# input password
 		password_input.send_keys(password)
@@ -40,7 +46,11 @@ class Authentication:
 		self.login_page.find_title_element_save()
 
 		# cancel validation login
-		back_button = self.login_page.find_back_button()
+		try:
+			back_button = self.login_page.find_back_button()
+		except:
+			back_button = self.login_page.find_back_button_id()
+
 		back_button.click()
 
 		print(" [+] proses masuk ke dashboard")

@@ -2,7 +2,7 @@
 Scraping job intern app ke .xlsx dengan python.
 
 # Note
-- Pastikan ```firefox``` anda set default bahasa ke ```bahasa inggris```.
+- Pastikan ```firefox``` anda set default bahasa ke ```bahasa inggris``` atau ```bahasa indonesia```.
 - Pastikan laptop / PC anda terinstall web browser ```firefox```, karena ini masih belum support dengan ```chrome```.
 - Pastikan versi python yang terinstall adalah ```python 3.12```
 - Karena ini project ```dadakan```, saya hanya memberikan ```sedikit handle error``` akan tetapi tidak semua saya tangani seperti try catch atau ```try exception``` pada saat ```login error```,``` network error```, dan kesalahan kesalahan ```umum``` lainnya.

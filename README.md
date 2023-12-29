@@ -9,22 +9,22 @@
 
 # Installasi
 1. Buka CMD / Git Bash / Terminal :
-2. ```bash
-3. git clone https://github.com/syauqqii/scrap3r
-4. ```
-5. Masuk ke directory scrap3r :
-6. ```bash
-7. cd scrap3r
-8. ```
-9. Lakukan installasi modul :
-10. ```python3
-11. pip install -r requirements.txt
-12. ```
-13. Setting ```EMAIL_BINUS``` & ```PASSWORD``` anda di file ```.env```
-14. Run program :
-15. ```python3
-    python main.py || python3 main.py
-16. ```
+```bash
+git clone https://github.com/syauqqii/scrap3r
+```
+2. Masuk ke directory scrap3r :
+```bash
+cd scrap3r
+```
+3. Lakukan installasi modul :
+```python3
+pip install -r requirements.txt
+```
+4. Setting ```EMAIL_BINUS``` & ```PASSWORD``` anda di file ```.env```
+5. Run program :
+```python3
+python main.py || python3 main.py
+```
 
 # Testing
 - Windows 10 ```AMAN```

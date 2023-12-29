@@ -9,7 +9,7 @@
 
 # Installasi
 1. Buka CMD / Git Bash / Terminal :
-```git
+```bash
 git clone https://github.com/syauqqii/scrap3r
 ```
 2. Masuk ke directory scrap3r :

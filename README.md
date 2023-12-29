@@ -18,7 +18,7 @@ cd scrap3r
 ```
 3. Lakukan installasi modul :
 ```python3
-pip install -r requirements.txt
+pip install -r requirements.txt || pip3 install -r requirements.txt
 ```
 4. Setting ```EMAIL_BINUS``` & ```PASSWORD``` anda di file ```.env```
 5. Run program :

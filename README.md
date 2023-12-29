@@ -1,5 +1,5 @@
 # Scrap3r
-Scraping job intern app ke .xlsx dengan python.
+> Scraping job intern app BINUS ke .xlsx dengan python3.
 
 # Note
 - Pastikan ```firefox``` anda set default bahasa ke ```bahasa inggris``` atau ```bahasa indonesia```.
@@ -8,11 +8,23 @@ Scraping job intern app ke .xlsx dengan python.
 - Karena ini project ```dadakan```, saya hanya memberikan ```sedikit handle error``` akan tetapi tidak semua saya tangani seperti try catch atau ```try exception``` pada saat ```login error```,``` network error```, dan kesalahan kesalahan ```umum``` lainnya.
 
 # Installasi
-1. Buka CMD / Git Bash / Terminal : ```git clone https://github.com/syauqqii/scrap3r```
-2. Masuk ke directory scrap3r : ```cd scrap3r```
-3. Lakukan installasi modul : ```pip install -r requirements.txt```
-4. Setting ```EMAIL_BINUS``` & ```PASSWORD``` anda di file ```.env```
-5. Run program : ```python main.py```
+1. Buka CMD / Git Bash / Terminal :
+2. ```bash
+3. git clone https://github.com/syauqqii/scrap3r
+4. ```
+5. Masuk ke directory scrap3r :
+6. ```bash
+7. cd scrap3r
+8. ```
+9. Lakukan installasi modul :
+10. ```python3
+11. pip install -r requirements.txt
+12. ```
+13. Setting ```EMAIL_BINUS``` & ```PASSWORD``` anda di file ```.env```
+14. Run program :
+15. ```python3
+    python main.py || python3 main.py
+16. ```
 
 # Testing
 - Windows 10 ```AMAN```
